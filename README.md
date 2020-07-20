@@ -1,12 +1,12 @@
-# subscribing_to_time_deposit-forecstaing-project
+# Subscribing_To_Time_Deposit-Forecstaing-Project
 
 
 
-Data Description:
+# Data Description:
 
 The data comes from direct marketing efforts of a European banking institution. The marketing campaign involves making a phone call to a customer, often multiple times to ensure a product subscription, in this case a term deposit. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds only after the term ends. All customer information that might reveal personal information is removed due to privacy concerns.
 
-Attributes:
+# Attributes:
 
 age : age of customer (numeric)
 
@@ -38,19 +38,16 @@ Output (desired target):
 
 y - has the client subscribed to a term deposit? (binary)
 
-Download Data:
 
-https://drive.google.com/file/d/1EW-XMnGfxn-qzGtGPa3v_C63Yqj2aGf7
-
-Goal(s):
+# Goal(s):
 
 Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
 
-Success Metric(s):
+# Success Metric(s):
 
 Hit %81 or above accuracy by evaluating with 5-fold cross validation and reporting the average performance score.
 
-Bonus(es):
+# Bonus(es):
 
 We are also interested in finding customers who are more likely to buy the investment product. Determine the segment(s) of customers our client should prioritize.
 
