@@ -1,4 +1,4 @@
-# Subscribing_To_Time_Deposit-Forecastaing-Project
+# Subscribing_To_Time_Deposit-Forecasting-Project
 
 
 
